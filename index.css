@@ -1,0 +1,45 @@
+* {
+box-sizing:border-box
+}
+
+.img-size {
+    height: 250px;
+    width: 200px;
+}
+
+h1 {
+    background-image: url("./Supporting\ Docs/image-1.jpeg");
+    width: 100%;
+    height: 100px;
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin-block-start: 0px;
+}
+
+h2.brushes {
+    background-color: mediumspringgreen;
+}
+
+h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.pricing {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+h2.frames {
+    background-color: lightcoral;
+}
+
+h2.paint {
+    background-color: skyblue;
+}
